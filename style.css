@@ -1,0 +1,61 @@
+body {
+    background-color: darkslategray;
+}
+
+*{
+    font-family: cursive;
+}
+
+#Button {
+    background-color: darkseagreen;
+    color:white;
+}
+
+h2{
+    color: white;
+}
+
+h3 {
+    color:white;
+    margin: 0;
+}
+button {
+    background-color: darkseagreen;
+    color: white;
+    border-radius: 5px;
+}
+
+#images {
+    width: 70%;
+    margin-left:15%;
+    background-color: cadetblue;
+    
+}
+
+#images img {
+   
+margin-left: 2%;
+
+}
+
+.container {
+    width: 70%;
+    margin-left: 15%;
+    background-color: cadetblue;
+    text-align: center;
+    
+}
+
+.container img {
+    text-align: center;
+}
+
+#results {
+    background-color: cadetblue;
+     width: 70%;
+    margin-left:15%;
+}
+
+#results p {
+    text-align: center;
+}
